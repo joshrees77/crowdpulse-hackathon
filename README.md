@@ -1,11 +1,28 @@
-# Boiler Room Crowd Analytics MVP
+# CrowdPulse: Quantifying Emotion Beyond Text
 
-Hackathon-focused tool to:
-- discover trending DJs (YouTube + Reddit mentions)
-- download YouTube sets
+LLMs are becoming extraordinarily good at text: coding, reasoning, summarizing, and operating software all happen in language. But a huge part of being human is not text at all. It is sensory, embodied, and collective: the way a crowd moves when a drop lands, the phones that come out during a peak moment, the energy shift when a song connects, and the shared emotion that appears in video before anyone writes a review.
+
+CrowdPulse is a Codex-built hackathon project exploring a broader vision: creating a structured dataset of human emotional response from real-world sensory media. The MVP uses Boiler Room DJ sets as a testbed because they are long-form, social, musical, and visually rich. It scores crowd energy every 10 seconds, compares DJs and sets, and maps the highest and lowest crowd-reaction moments back to the songs playing at the time.
+
+The long-term idea is bigger than DJ benchmarking. If we can turn video, audio, movement, light, and group behavior into reliable emotional signals, we can build datasets that help digital intelligence understand more of the human experience: concerts, sports, events, classrooms, retail, public spaces, and any moment where emotion is expressed through bodies rather than words.
+
+## Codex Hackathon Angle
+
+This project was built and operated with Codex as the core development partner:
+- Codex generated the analysis pipeline, Streamlit dashboard, project docs, demo frame, and PowerPoint pitch deck.
+- Natural-language ops let me ask questions like "which set has the best vibes?" or "what are the top songs across sets?" over local analysis outputs.
+- A project-specific CrowdPulse skill documents repeatable workflows for refreshing sets, rebuilding tracks, checking demo readiness, and creating artifacts.
+- Codex automation/cron workflows can regularly discover new DJ sets, download them, run analysis, and summarize output coverage.
+- Codex handled the GitHub packaging flow, including `.gitignore`, commit, and publishing the public repo.
+
+## What It Does
+
+CrowdPulse can:
+- discover trending DJs from YouTube and Reddit signals
+- download YouTube DJ sets
 - score crowd energy every 10 seconds from video
-- map peak/low moments to likely tracks from timestamped descriptions
-- compare sets and DJs in a Streamlit dashboard
+- map peak/low moments to likely tracks from chapters, descriptions, fingerprints, and overrides
+- compare sets, DJs, tracks, and moments in a Streamlit dashboard
 
 Current crowd signals:
 - movement intensity (optical flow)
