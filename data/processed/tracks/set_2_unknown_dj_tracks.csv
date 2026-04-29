@@ -1,0 +1,5 @@
+set_id,start_sec,timestamp,track,source,confidence
+set_2_unknown_dj,60,00:01:00,Shino Blackk - Go Love (Piano Dub Mix),audio_fingerprint,0.81
+set_2_unknown_dj,300,00:05:00,Flume - Holdin On (Kaytranada Remix),audio_fingerprint,0.81
+set_2_unknown_dj,540,00:09:00,Full Crate - L'Afrique (feat. Papa Ghana),audio_fingerprint,0.84
+set_2_unknown_dj,780,00:13:00,Funkadelic - (Not Just) Knee Deep (Mixed),audio_fingerprint,0.84

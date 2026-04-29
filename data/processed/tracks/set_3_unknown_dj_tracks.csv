@@ -1,0 +1,11 @@
+set_id,start_sec,timestamp,track,source,confidence
+set_3_unknown_dj,60,00:01:00,100 gecs - Dumbest Girl Alive,audio_fingerprint,0.81
+set_3_unknown_dj,300,00:05:00,Skrillex & Nai Barghouti - XENA,audio_fingerprint,0.81
+set_3_unknown_dj,540,00:09:00,Underworld - Moaner,audio_fingerprint,0.87
+set_3_unknown_dj,1260,00:21:00,El Gordo - Kuliki,audio_fingerprint,0.81
+set_3_unknown_dj,1500,00:25:00,Romy & Fred again.. - Strong,audio_fingerprint,0.81
+set_3_unknown_dj,1740,00:29:00,For Those I Love - I Have a Love (Overmono Remix),audio_fingerprint,0.81
+set_3_unknown_dj,1980,00:33:00,The Chemical Brothers - The Darkness That You Fear,audio_fingerprint,0.81
+set_3_unknown_dj,2460,00:41:00,Jamie xx - The Rest Is Noise,audio_fingerprint,0.81
+set_3_unknown_dj,2700,00:45:00,SOPHIE - Whole New World/Pretend World,audio_fingerprint,0.81
+set_3_unknown_dj,2940,00:49:00,"Skrillex - With You, Friends (Long Drive)",audio_fingerprint,0.81

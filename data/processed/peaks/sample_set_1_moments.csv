@@ -1,0 +1,3 @@
+set_id,t_sec,movement_raw,phone_proxy_raw,movement_norm,phone_proxy_norm,crowd_energy,crowd_energy_smooth,moment_type,track
+sample_set_1,0,0.0,0.9548611111111112,0.0,0.0,0.0,0.2481485360325217,low,Intro Track
+sample_set_1,40,4.014399528503418,1.1284722222222223,0.2899823347467327,0.25,0.2779876343227129,0.4730369188499888,high,Groove Builder

@@ -1,0 +1,9 @@
+set_id,start_sec,timestamp,track,source,confidence
+set_x9VYKrtziSg,300,00:05:00,Oliver Koletzki & Niko Schwind - Subati,audio_fingerprint,0.81
+set_x9VYKrtziSg,540,00:09:00,Enrico Sangiuliano - Hidden T,audio_fingerprint,0.81
+set_x9VYKrtziSg,780,00:13:00,DRUNKEN KONG - Realize,audio_fingerprint,0.84
+set_x9VYKrtziSg,1260,00:21:00,"Carl Cox, Reinier Zonneveld & Christopher Coe - Inferno",audio_fingerprint,0.87
+set_x9VYKrtziSg,1500,00:25:00,Popof - Bowo,audio_fingerprint,0.84
+set_x9VYKrtziSg,1740,00:29:00,2pole Feat. Ursula Rucker - Alone (Original Mix),audio_fingerprint,0.81
+set_x9VYKrtziSg,2940,00:49:00,Deas - Velocity,audio_fingerprint,0.81
+set_x9VYKrtziSg,3180,00:53:00,Maxime Miville - Don't Ask (Max Cooper Remix),audio_fingerprint,0.81

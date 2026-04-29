@@ -1,0 +1,37 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Local Python environment
+.venv/
+venv/
+env/
+
+# Local secrets and environment overrides
+.env
+.env.*
+!.env.example
+
+# Raw downloads are too large for GitHub and can be recreated from manifests.
+data/raw/videos/
+data/tmp_clips/
+*.mp4
+*.mov
+*.mkv
+*.webm
+*.mp3
+*.wav
+
+# Keep the final deck, not intermediate duplicate exports.
+outputs/boiler-room-pitch/output.pptx
+
+# Generated slide/runtime scratch artifacts.
+tmp/slides/boiler-room-pitch/preview/
+tmp/slides/boiler-room-pitch/verification/
+tmp/slides/boiler-room-pitch/inspect.ndjson
+tmp/slides/boiler-room-pitch/node_modules/
+tmp/slides/boiler-room-pitch-clean/
+
+# Dependency folders
+node_modules/

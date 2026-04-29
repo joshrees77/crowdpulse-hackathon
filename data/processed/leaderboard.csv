@@ -1,0 +1,4 @@
+set_id,avg_energy,max_energy,min_energy,high_moment_count,low_moment_count,dj_name,set_title,youtube_url,rank_by_avg_energy
+set_2_unknown_dj,0.6095462089085512,0.827895512576235,0.2869222261201216,26,26,Unknown DJ,Set 2,https://www.youtube.com/watch?v=-5EQIiabJvk,1
+set_1_unknown_dj,0.5006516704910923,0.7424563763645986,0.2066408151726617,44,44,Unknown DJ,Set 1,https://www.youtube.com/watch?v=c0-hvjV2A5Y,2
+set_3_unknown_dj,0.4453432764011375,0.6167353410026829,0.2291399858831622,36,36,Unknown DJ,Set 3,https://www.youtube.com/watch?v=T1tcUfUhR5U,3
